@@ -19,3 +19,5 @@ node_filesystem_avail_bytes{fstype!="tmpfs", fstype!="overlay"} / (1024 * 1024 *
 
 ### Задание 3
 ![task3](https://github.com/user-attachments/assets/d6079fb8-d600-4ec8-b734-71c16baea738)
+
+monitoring/Node Exporter Monitoring-1761839883397.json
